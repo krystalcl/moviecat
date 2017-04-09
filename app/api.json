@@ -1,0 +1,213 @@
+{
+	"count": 3,
+	"start": 5,
+	"total": 32,
+	"subjects": [
+		{
+			"rating": {
+				"max": 10,
+				"average": 8.3,
+				"stars": "45",
+				"min": 0
+			},
+			"genres": [
+				"剧情",
+				"动作",
+				"科幻"
+			],
+			"title": "金刚狼3：殊死一战",
+			"casts": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1010508/",
+					"avatars": {
+						"small": "https://img5.doubanio.com/img/celebrity/small/22036.jpg",
+						"large": "https://img5.doubanio.com/img/celebrity/large/22036.jpg",
+						"medium": "https://img5.doubanio.com/img/celebrity/medium/22036.jpg"
+					},
+					"name": "休·杰克曼",
+					"id": "1010508"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1010540/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/50451.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/50451.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/50451.jpg"
+					},
+					"name": "帕特里克·斯图尔特",
+					"id": "1010540"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1363476/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/1489059638.74.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/1489059638.74.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/1489059638.74.jpg"
+					},
+					"name": "达芙妮·基恩",
+					"id": "1363476"
+				}
+			],
+			"collect_count": 150783,
+			"original_title": "Logan",
+			"subtype": "movie",
+			"directors": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1036395/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/11282.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/11282.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/11282.jpg"
+					},
+					"name": "詹姆斯·曼高德",
+					"id": "1036395"
+				}
+			],
+			"year": "2017",
+			"images": {
+				"small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2431980130.jpg",
+				"large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2431980130.jpg",
+				"medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2431980130.jpg"
+			},
+			"alt": "https://movie.douban.com/subject/25765735/",
+			"id": "25765735"
+		},
+		{
+			"rating": {
+				"max": 10,
+				"average": 0,
+				"stars": "00",
+				"min": 0
+			},
+			"genres": [
+				"喜剧"
+			],
+			"title": "欢乐喜剧人",
+			"casts": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1274305/",
+					"avatars": {
+						"small": "https://img1.doubanio.com/img/celebrity/small/6569.jpg",
+						"large": "https://img1.doubanio.com/img/celebrity/large/6569.jpg",
+						"medium": "https://img1.doubanio.com/img/celebrity/medium/6569.jpg"
+					},
+					"name": "郭德纲",
+					"id": "1274305"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1317663/",
+					"avatars": {
+						"small": "https://img5.doubanio.com/img/celebrity/small/40756.jpg",
+						"large": "https://img5.doubanio.com/img/celebrity/large/40756.jpg",
+						"medium": "https://img5.doubanio.com/img/celebrity/medium/40756.jpg"
+					},
+					"name": "岳云鹏",
+					"id": "1317663"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1040996/",
+					"avatars": {
+						"small": "https://img1.doubanio.com/img/celebrity/small/40158.jpg",
+						"large": "https://img1.doubanio.com/img/celebrity/large/40158.jpg",
+						"medium": "https://img1.doubanio.com/img/celebrity/medium/40158.jpg"
+					},
+					"name": "罗温·艾金森",
+					"id": "1040996"
+				}
+			],
+			"collect_count": 253,
+			"original_title": "欢乐喜剧人",
+			"subtype": "movie",
+			"directors": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1289263/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/1483070799.61.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/1483070799.61.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/1483070799.61.jpg"
+					},
+					"name": "黎继强",
+					"id": "1289263"
+				}
+			],
+			"year": "2017",
+			"images": {
+				"small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2436233395.jpg",
+				"large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2436233395.jpg",
+				"medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2436233395.jpg"
+			},
+			"alt": "https://movie.douban.com/subject/26850326/",
+			"id": "26850326"
+		},
+		{
+			"rating": {
+				"max": 10,
+				"average": 6.7,
+				"stars": "35",
+				"min": 0
+			},
+			"genres": [
+				"动作",
+				"科幻",
+				"恐怖"
+			],
+			"title": "生化危机：终章",
+			"casts": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1025154/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/2431.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/2431.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/2431.jpg"
+					},
+					"name": "米拉·乔沃维奇",
+					"id": "1025154"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1009367/",
+					"avatars": {
+						"small": "https://img3.doubanio.com/img/celebrity/small/1416757467.73.jpg",
+						"large": "https://img3.doubanio.com/img/celebrity/large/1416757467.73.jpg",
+						"medium": "https://img3.doubanio.com/img/celebrity/medium/1416757467.73.jpg"
+					},
+					"name": "伊恩·格雷",
+					"id": "1009367"
+				},
+				{
+					"alt": "https://movie.douban.com/celebrity/1018978/",
+					"avatars": {
+						"small": "https://img1.doubanio.com/img/celebrity/small/187.jpg",
+						"large": "https://img1.doubanio.com/img/celebrity/large/187.jpg",
+						"medium": "https://img1.doubanio.com/img/celebrity/medium/187.jpg"
+					},
+					"name": "艾丽·拉特",
+					"id": "1018978"
+				}
+			],
+			"collect_count": 102546,
+			"original_title": "Resident Evil: The Final Chapter",
+			"subtype": "movie",
+			"directors": [
+				{
+					"alt": "https://movie.douban.com/celebrity/1031921/",
+					"avatars": {
+						"small": "https://img1.doubanio.com/img/celebrity/small/11288.jpg",
+						"large": "https://img1.doubanio.com/img/celebrity/large/11288.jpg",
+						"medium": "https://img1.doubanio.com/img/celebrity/medium/11288.jpg"
+					},
+					"name": "保罗·安德森",
+					"id": "1031921"
+				}
+			],
+			"year": "2016",
+			"images": {
+				"small": "https://img3.doubanio.com/view/movie_poster_cover/ipst/public/p2429713841.jpg",
+				"large": "https://img3.doubanio.com/view/movie_poster_cover/lpst/public/p2429713841.jpg",
+				"medium": "https://img3.doubanio.com/view/movie_poster_cover/spst/public/p2429713841.jpg"
+			},
+			"alt": "https://movie.douban.com/subject/20471852/",
+			"id": "20471852"
+		}
+	],
+	"title": "正在上映的电影-北京"
+}

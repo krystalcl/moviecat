@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>JSONP的实现方法</title>
+</head>
+<body>
+	<div id="result"></div>
+	<script src="http.js"></script>
+	<script>
+		(function(){
+			$jsonp(
+			'https://api.douban.com//v2/movie/in_theaters',
+			{count:10,
+			start:5
+			},  //传递过去的参数
+			// 回调函数
+			function(data){
+				document.getElementById('result').innerHTML = JSON.stringify(data);//data为传到本地的对象，需要通过JSON.stringify(data)，把其变成字符串类型
+			});
+
+			// <!-- $.get('/users/list',{},function(list){
+
+			// }); -->
+		})();
+	</script>
+</body>
+</html>
